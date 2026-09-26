@@ -1,0 +1,6 @@
+{
+  "name": "SkillPilot",
+  "description": "Job-Skill Matcher & What-If Career Simulator with explainable matching, skill-gap analysis, and upskilling pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
